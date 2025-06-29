@@ -1,4 +1,4 @@
-Location-Based Restaurant Analysis
+Location-Based Restaurant Analysis:
 During my internship with @Cognifyz Technologies, I explored restaurant data using geolocation analysis to gain actionable business insights.
 
 📍 Project Highlights:
